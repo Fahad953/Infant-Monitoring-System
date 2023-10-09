@@ -1,0 +1,2 @@
+﻿ID,Age_Months,Weight_Kg,Height_Cm,Oxygen_Saturation,Pulse_Rate,Temperature_C,Fever,Respiratory_Rate,Cough,Runny_Nose,Skin_Rash,Vomiting,Diarrhea,Blood_Pressure,Sleep_Duration_Hrs,Feeding_Method,Immunization_Status,Hygiene_Score,Parental_Education,Family_Income
+1,4,5.2,60,98,120,37.0,0,28,0,0,0,0,0,110/70,14,Formula,Complete,3,High School,60000

@@ -2,9 +2,16 @@ const Router = require('express');
 
 
 const AuthRoute=require("./routes/Auth.js");
+const InfantRoute=require("./routes/infant.js");
+const PythonModel=require("./routes/model.js");
 
 
 
-// module.exports=Router().use('/api/auth', AuthRoute);
+const router = Router();
 
-module.exports = Router().use('/api/auth', AuthRoute)    
+
+router.use("/api/auth", AuthRoute);
+router.use("/api/infant", InfantRoute);
+router.use("/api/model", PythonModel);
+
+module.exports = router;
