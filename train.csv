@@ -1000,3 +1000,201 @@ ID,Age_Months,Weight_Kg,Height_Cm,Oxygen_Saturation,Pulse_Rate,Temperature_C,Fev
 999,5,8.5,61,99,139,37.2,False,31,True,True,True,True,True,102.9/78.0,13,Formula,Incomplete,0,Postgraduate,96440,Sick
 1000,11,4.4,46,96,133,36.9,False,52,True,True,True,False,True,98.6/70.7,18,Formula,Incomplete,3,Postgraduate,101424,Sick
 1001,11,4.4,46,96,133,36.9,False,52,False,True,True,False,False,104/70.7,18,Formula,Incomplete,3,High School,1229,Healthy
+1002,4,7,33,94,115,38.2,true,16,false,false,true,true,true,110/70,7,Breastfed,Complete,4,College,82468,Healthy
+1003,0,5.3,56,91,149,37.8,false,40,true,true,true,true,false,115/75,6,Mixed,Complete,2,High School,178217,Sick
+1004,2,5.2,17,90,69,35.2,false,4,false,true,true,true,true,115/75,3,Breastfed,Incomplete,5,College,73596,Healthy
+1005,5,8.5,34,99,67,36.4,false,9,false,true,false,false,false,118/78,17,Formula,Incomplete,5,Postgraduate,184027,Sick
+1006,9,3.8,47,91,124,35.5,false,16,false,true,false,true,false,112/72,6,Breastfed,Incomplete,2,Postgraduate,175339,Sick
+1007,8,4.8,64,93,72,35.4,false,16,true,true,false,false,false,110/70,4,Mixed,Incomplete,0,College,120210,Sick
+1008,8,2.5,51,98,63,36.6,true,8,false,false,true,true,true,112/72,1,Breastfed,Complete,0,College,125582,Sick
+1009,2,1,10,95,79,38.2,false,38,true,false,false,true,false,118/78,6,Formula,Incomplete,3,Postgraduate,196,Healthy
+1010,11,2.1,68,95,64,37.6,false,24,true,true,false,false,true,112/72,23,Formula,Incomplete,3,College,23597,Healthy
+1011,3,9.1,81,99,105,35.6,false,12,false,true,false,false,true,118/78,0,Breastfed,Incomplete,2,High School,47667,Sick
+1012,8,2.7,56,93,81,36.1,true,2,false,true,false,true,false,112/72,14,Formula,Incomplete,4,College,40683,Sick
+1013,11,7,28,91,96,35.6,true,10,false,true,false,false,false,110/70,24,Formula,Complete,5,High School,76984,Sick
+1014,6,3.8,54,98,110,38.8,true,28,true,false,false,false,true,110/70,23,Mixed,Incomplete,4,High School,72069,Healthy
+1015,1,8.7,51,93,102,37.5,false,1,true,true,false,true,true,112/72,14,Breastfed,Incomplete,0,High School,12045,Healthy
+1016,1,7.2,21,98,143,35.9,true,34,true,false,false,true,false,118/78,8,Formula,Incomplete,4,College,140746,Healthy
+1017,9,9.6,28,94,87,39.1,false,34,true,true,false,true,false,115/75,19,Mixed,Incomplete,4,Postgraduate,96440,Sick
+1018,0,6.6,14,92,93,37.7,false,40,true,false,true,false,true,118/78,13,Mixed,Incomplete,0,Postgraduate,101424,Sick
+1019,0,1.4,60,93,87,38.7,true,2,false,false,false,true,false,110/70,9,Formula,Incomplete,4,High School,1229,Sick
+1020,5,9.5,77,90,123,35.8,true,24,true,false,false,false,true,112/72,7,Mixed,Complete,2,College,51279,Healthy
+1021,5,3.3,12,94,118,39.9,true,32,false,true,false,false,false,115/75,14,Formula,Incomplete,2,Postgraduate,5768,Healthy
+1022,8,7,38,91,127,38.9,false,31,true,false,true,false,false,118/78,24,Breastfed,Incomplete,3,Postgraduate,71667,Healthy
+1023,8,9.5,78,94,98,39.1,false,27,false,true,false,false,false,112/72,4,Formula,Complete,2,College,155591,Sick
+1024,5,6.4,78,93,136,39.4,false,2,true,false,true,true,false,112/72,22,Breastfed,Complete,1,High School,66720,Healthy
+1025,11,6.1,43,94,90,35.4,false,27,true,true,false,false,true,112/72,13,Breastfed,Complete,5,College,151122,Healthy
+1026,5,4,62,92,108,39.4,false,13,false,true,true,false,true,112/72,21,Mixed,Complete,2,High School,185622,Sick
+1027,7,5.3,86,93,117,35.4,false,13,false,false,true,false,true,118/78,13,Formula,Incomplete,3,College,34906,Sick
+1028,0,4.4,21,90,104,37.9,true,37,true,false,false,true,true,115/75,18,Breastfed,Complete,3,Postgraduate,180168,Healthy
+1029,3,1.8,78,92,144,39.2,false,29,false,true,false,false,true,115/75,24,Mixed,Incomplete,4,High School,21993,Healthy
+1030,2,1.4,92,100,85,38.7,true,18,true,true,false,true,false,112/72,12,Breastfed,Incomplete,5,High School,1439,Sick
+1031,7,8.3,82,100,81,37.3,true,6,true,false,true,true,false,118/78,2,Breastfed,Incomplete,2,Postgraduate,18040,Healthy
+1032,3,8.5,64,91,68,38.5,false,21,true,true,false,true,false,110/70,10,Formula,Complete,0,College,23377,Sick
+1033,11,1.8,14,98,131,37.8,true,21,true,true,true,false,false,115/75,14,Mixed,Incomplete,4,Postgraduate,81859,Sick
+1034,7,2.1,39,97,90,37.6,false,15,true,true,false,false,false,110/70,3,Mixed,Incomplete,2,College,97957,Sick
+1035,10,6.4,12,94,107,38.8,true,7,false,false,true,false,true,118/78,15,Breastfed,Incomplete,4,High School,29189,Sick
+1036,1,4.4,74,93,86,35.3,true,32,false,true,false,true,false,112/72,9,Breastfed,Complete,3,College,197149,Healthy
+1037,4,5.8,82,90,82,37.4,true,18,true,false,true,false,true,115/75,15,Formula,Incomplete,5,High School,46197,Healthy
+1038,9,4.5,22,90,105,38.1,false,7,true,false,false,true,true,112/72,6,Formula,Complete,5,Postgraduate,24845,Healthy
+1039,4,5.8,10,90,141,37.9,false,22,true,false,false,true,true,118/78,4,Mixed,Complete,2,College,72310,Sick
+1040,8,6.8,29,98,117,35.3,false,17,false,true,false,true,false,115/75,19,Mixed,Incomplete,2,College,165086,Sick
+1041,11,9.9,85,95,125,35.7,false,26,true,true,false,true,false,118/78,6,Formula,Complete,1,College,37808,Healthy
+1042,1,3.6,27,100,69,38.5,true,24,false,false,true,true,true,115/75,23,Breastfed,Complete,3,Postgraduate,13651,Healthy
+1043,0,0.5,15,100,132,38.3,true,20,false,false,true,false,false,115/75,7,Formula,Complete,4,Postgraduate,52619,Healthy
+1044,8,1.5,18,99,77,38.9,true,7,true,true,true,false,false,110/70,17,Mixed,Incomplete,1,High School,26146,Sick
+1045,5,4.6,87,93,133,39,false,25,true,false,false,false,false,118/78,17,Formula,Complete,2,Postgraduate,35428,Healthy
+1046,3,5,0,95,129,37.1,false,5,false,false,true,true,false,115/75,24,Formula,Incomplete,4,College,137435,Sick
+1047,0,1.5,22,100,79,37.1,false,5,true,true,false,true,false,112/72,21,Breastfed,Incomplete,4,Postgraduate,113838,Healthy
+1048,4,9.1,67,98,124,35.1,true,27,true,false,false,true,false,115/75,24,Formula,Incomplete,0,Postgraduate,139684,Healthy
+1049,0,4.6,32,97,131,37.3,true,38,true,false,false,false,false,118/78,7,Breastfed,Incomplete,4,High School,34843,Sick
+1050,4,8.3,67,94,124,37.8,false,7,true,false,false,true,false,118/78,18,Formula,Complete,1,High School,61715,Healthy
+1051,4,3.7,25,93,130,35.9,false,25,false,true,true,false,false,112/72,14,Breastfed,Incomplete,2,Postgraduate,155731,Healthy
+1052,8,6.1,4,93,135,39.4,true,31,false,false,false,false,true,112/72,14,Mixed,Complete,5,College,127677,Sick
+1053,2,8.5,29,92,147,38.5,false,34,false,true,true,true,false,110/70,21,Breastfed,Complete,5,Postgraduate,43101,Healthy
+1054,8,3.3,3,93,109,39.8,false,27,true,true,false,true,true,115/75,1,Mixed,Incomplete,0,College,135853,Healthy
+1055,11,6,35,100,93,39.4,false,28,false,false,true,true,true,112/72,21,Formula,Complete,3,College,167872,Sick
+1056,3,8.6,60,93,119,35.5,false,14,false,true,true,true,false,118/78,10,Formula,Incomplete,0,High School,114064,Healthy
+1057,10,1.2,59,100,92,35.7,true,34,false,true,false,true,true,112/72,18,Formula,Complete,3,High School,9569,Sick
+1058,10,0.8,20,98,78,36,true,27,false,false,false,false,false,118/78,6,Breastfed,Incomplete,4,College,41553,Healthy
+1059,1,9.3,60,95,133,38.7,true,10,true,false,true,true,false,118/78,4,Formula,Complete,5,College,103466,Healthy
+1060,9,7.1,81,90,80,35,false,3,true,false,false,false,false,115/75,13,Formula,Incomplete,4,Postgraduate,25363,Healthy
+1061,3,7.4,27,90,60,36.4,true,28,true,false,false,false,false,110/70,10,Mixed,Complete,0,College,129885,Healthy
+1062,3,8.9,25,92,145,36.4,false,0,false,false,true,false,false,112/72,2,Formula,Incomplete,3,College,136417,Sick
+1063,11,7.4,47,95,60,36.4,false,36,true,true,true,false,true,118/78,23,Mixed,Complete,1,College,20867,Healthy
+1064,8,8.6,99,97,73,36.7,false,38,false,true,false,false,false,118/78,18,Formula,Incomplete,0,Postgraduate,157468,Healthy
+1065,7,7,98,90,84,39,true,21,true,false,false,true,true,112/72,4,Breastfed,Incomplete,0,Postgraduate,56144,Healthy
+1066,6,0.7,48,99,74,38.1,true,30,true,false,true,true,true,110/70,0,Breastfed,Complete,1,Postgraduate,180491,Sick
+1067,8,4.8,82,98,103,37.5,false,5,true,false,true,true,true,110/70,10,Formula,Complete,0,Postgraduate,101599,Healthy
+1068,12,3.1,88,99,87,39.7,true,26,false,true,false,true,true,110/70,4,Formula,Complete,1,High School,165928,Healthy
+1069,12,5.9,26,97,105,35.1,false,10,false,false,true,false,true,110/70,1,Mixed,Complete,3,High School,119193,Sick
+1070,1,5.5,21,94,96,37.2,true,4,true,true,false,false,false,118/78,6,Mixed,Complete,0,Postgraduate,93452,Sick
+1071,12,0.3,27,92,143,36.6,true,9,false,true,false,false,true,112/72,5,Breastfed,Complete,2,High School,93320,Sick
+1072,5,2.1,22,98,84,37.5,false,29,false,false,true,true,true,110/70,21,Mixed,Incomplete,4,College,193531,Sick
+1073,7,3.8,59,96,112,37.4,false,13,false,true,true,false,false,115/75,16,Breastfed,Complete,0,Postgraduate,7936,Sick
+1074,8,4,58,100,92,37.7,false,10,true,true,false,false,false,115/75,19,Mixed,Complete,1,High School,194562,Sick
+1075,9,7.3,17,95,138,35.4,false,17,false,true,true,true,true,110/70,10,Mixed,Complete,5,High School,116853,Sick
+1076,11,3.9,50,95,87,39.2,false,9,true,false,true,false,false,118/78,19,Mixed,Incomplete,4,High School,173843,Sick
+1077,5,6,65,99,148,38.6,true,26,true,true,false,true,false,112/72,9,Mixed,Complete,4,College,2806,Healthy
+1078,12,7,32,91,79,36.7,true,4,false,true,true,true,false,110/70,16,Formula,Complete,3,College,141791,Sick
+1079,7,6.9,41,92,142,38,false,28,true,false,true,false,true,112/72,14,Mixed,Complete,3,College,43474,Sick
+1080,4,2,75,92,69,38.1,false,34,false,true,false,false,false,115/75,22,Breastfed,Complete,2,College,161787,Sick
+1081,10,9.6,5,95,84,35.3,true,6,true,true,false,false,true,112/72,11,Formula,Complete,1,Postgraduate,36172,Healthy
+1082,9,2.9,24,90,83,38.5,true,24,false,false,false,false,false,118/78,10,Mixed,Incomplete,1,High School,54486,Sick
+1083,7,3.9,63,97,117,37.4,true,27,true,true,false,false,true,112/72,4,Formula,Incomplete,5,College,27126,Sick
+1084,2,1,67,96,121,37.5,true,4,false,true,false,true,true,112/72,19,Mixed,Complete,2,High School,59350,Sick
+1085,10,9.8,13,91,96,38.6,false,28,false,false,false,true,false,112/72,20,Mixed,Incomplete,5,Postgraduate,94134,Healthy
+1086,9,2.5,86,98,101,39.1,false,19,true,true,false,false,true,118/78,9,Mixed,Complete,1,Postgraduate,14814,Healthy
+1087,2,0.4,65,97,131,35.2,true,24,true,true,false,false,true,112/72,15,Breastfed,Incomplete,2,High School,81188,Healthy
+1088,10,5.5,33,93,121,37.6,false,3,true,false,true,false,false,112/72,8,Formula,Incomplete,5,Postgraduate,164194,Sick
+1089,7,6.7,65,91,98,35.7,false,33,true,false,true,true,true,118/78,12,Mixed,Complete,5,High School,147616,Healthy
+1090,7,4.3,35,92,73,35.5,true,22,true,true,true,true,false,115/75,10,Formula,Complete,0,Postgraduate,87558,Sick
+1091,0,1.9,32,98,98,36,true,1,false,false,false,true,false,118/78,22,Mixed,Incomplete,3,High School,26406,Healthy
+1092,12,5.4,91,91,70,37.7,true,29,false,false,false,true,false,112/72,8,Mixed,Incomplete,1,High School,150764,Sick
+1093,5,4.4,1,90,94,35.7,true,32,true,false,true,true,true,118/78,5,Mixed,Incomplete,4,High School,24947,Healthy
+1094,12,3.7,13,94,109,36.3,false,36,false,true,true,false,true,112/72,13,Formula,Complete,0,High School,44177,Healthy
+1095,5,6.2,67,96,67,36.4,false,18,false,true,true,false,false,112/72,4,Formula,Complete,3,Postgraduate,170328,Healthy
+1096,10,4.6,41,100,121,38.6,false,26,false,false,false,true,true,118/78,16,Breastfed,Incomplete,3,High School,141806,Sick
+1097,5,0,92,94,91,40,false,38,false,false,false,false,false,115/75,9,Mixed,Complete,2,High School,11368,Healthy
+1098,1,5.6,48,92,137,39.3,true,35,false,true,true,false,false,118/78,1,Breastfed,Complete,3,College,17265,Healthy
+1099,8,6.9,95,91,80,39.1,true,36,false,false,true,true,true,112/72,21,Breastfed,Complete,1,College,21391,Sick
+1100,7,4.6,22,94,140,36,false,14,false,true,true,true,true,118/78,10,Formula,Incomplete,5,College,149109,Healthy
+1101,0,3,13,97,84,36.7,true,30,true,true,true,true,false,112/72,23,Mixed,Complete,1,College,98205,Healthy
+1102,1,1.1,40,100,122,37.1,false,33,false,false,false,false,false,112/72,0,Breastfed,Complete,2,High School,12366,Healthy
+1103,5,7.9,9,91,117,36,false,18,true,false,false,false,false,118/78,5,Formula,Complete,0,College,150315,Sick
+1104,0,3.3,92,95,104,37.4,true,39,true,false,true,true,true,112/72,21,Breastfed,Incomplete,1,College,78256,Healthy
+1105,9,0,22,90,73,36.6,false,20,false,false,true,false,true,118/78,10,Formula,Incomplete,3,High School,194860,Sick
+1106,1,7.6,85,97,133,35.6,true,15,false,true,false,true,false,112/72,17,Formula,Complete,3,College,124972,Healthy
+1107,3,5.9,45,93,141,35.1,true,12,true,true,true,false,true,118/78,22,Formula,Incomplete,0,Postgraduate,12364,Sick
+1108,8,9.5,5,96,73,37.4,false,25,true,false,false,true,true,118/78,17,Formula,Incomplete,1,Postgraduate,176981,Sick
+1109,12,6,40,90,139,39.4,true,38,true,false,true,true,true,112/72,20,Mixed,Complete,0,College,49942,Healthy
+1110,11,8.1,35,99,72,36.6,false,1,false,true,true,false,false,110/70,19,Breastfed,Incomplete,4,Postgraduate,183832,Sick
+1111,6,0.9,18,98,76,35.5,false,7,true,false,true,false,false,115/75,11,Formula,Incomplete,3,Postgraduate,27823,Sick
+1112,8,7.1,14,97,107,38.7,false,18,true,true,false,false,false,112/72,22,Breastfed,Incomplete,5,High School,82871,Sick
+1113,10,0.2,51,92,96,37.2,false,30,true,true,true,false,false,118/78,13,Mixed,Complete,2,Postgraduate,131988,Healthy
+1114,10,9,59,96,67,37.2,false,38,true,true,true,true,true,110/70,8,Formula,Incomplete,5,College,40206,Healthy
+1115,9,0.2,28,91,137,39.4,false,11,false,false,false,true,false,110/70,2,Breastfed,Incomplete,5,College,71273,Healthy
+1116,3,5.7,49,95,133,38.8,true,21,false,false,true,true,false,118/78,24,Breastfed,Complete,3,High School,8916,Healthy
+1117,4,1.9,16,97,140,39.8,true,16,false,true,true,false,true,118/78,12,Formula,Complete,1,Postgraduate,140327,Sick
+1118,1,5.9,38,90,128,35.8,false,10,false,true,false,true,false,110/70,10,Breastfed,Incomplete,4,Postgraduate,178703,Sick
+1119,6,3.6,72,95,67,36.4,true,13,true,false,true,false,true,110/70,19,Breastfed,Incomplete,2,High School,47297,Sick
+1120,6,9.3,14,100,76,38.5,true,32,false,true,false,false,false,110/70,4,Formula,Incomplete,1,High School,100243,Sick
+1121,5,4,0,93,104,39.2,false,8,false,false,true,true,false,112/72,6,Breastfed,Incomplete,5,High School,73819,Sick
+1122,7,8,34,90,124,39.6,false,13,true,false,false,true,true,118/78,21,Breastfed,Incomplete,2,Postgraduate,15926,Healthy
+1123,6,7.7,26,97,90,36.7,true,14,true,true,true,true,true,118/78,20,Mixed,Incomplete,5,College,27395,Healthy
+1124,5,1.3,67,90,86,38.8,true,6,false,false,true,false,true,118/78,24,Breastfed,Complete,2,Postgraduate,51861,Healthy
+1125,2,1.9,96,98,67,38.7,true,6,false,false,true,true,true,115/75,17,Mixed,Complete,1,College,29803,Healthy
+1126,4,10,7,97,115,36.1,true,23,true,true,true,false,false,118/78,22,Breastfed,Complete,1,Postgraduate,46645,Sick
+1127,12,2.4,25,94,72,36.3,false,30,true,true,true,false,false,118/78,17,Breastfed,Incomplete,5,Postgraduate,94403,Healthy
+1128,7,4.7,8,98,138,38.5,false,39,true,false,false,true,true,118/78,16,Breastfed,Complete,0,High School,123026,Healthy
+1129,9,8.8,38,99,119,36.4,true,18,false,true,true,false,false,115/75,11,Mixed,Incomplete,1,Postgraduate,67781,Healthy
+1130,11,4.6,88,94,144,38.8,true,30,false,false,false,true,false,110/70,13,Mixed,Incomplete,3,Postgraduate,37413,Healthy
+1131,3,5.7,43,96,133,39.7,true,22,true,true,true,false,false,115/75,9,Formula,Incomplete,3,Postgraduate,6519,Healthy
+1132,0,0.3,57,90,66,36.1,true,2,false,true,true,false,true,118/78,22,Formula,Incomplete,5,College,110972,Healthy
+1133,6,0.2,92,97,132,38.7,false,8,false,true,false,true,true,118/78,24,Mixed,Incomplete,5,Postgraduate,173366,Healthy
+1134,9,9.7,98,92,130,39.7,false,18,true,true,false,true,true,115/75,17,Mixed,Complete,4,College,39574,Sick
+1135,10,6.1,23,90,133,37.4,false,15,false,false,true,true,false,110/70,6,Breastfed,Incomplete,2,High School,143115,Healthy
+1136,6,7,67,95,65,36.4,true,39,false,true,false,true,false,110/70,19,Mixed,Incomplete,2,Postgraduate,163087,Sick
+1137,10,0.8,49,95,106,37,false,38,false,true,true,true,true,115/75,13,Breastfed,Incomplete,0,Postgraduate,66804,Sick
+1138,6,9.1,69,95,74,35.2,false,23,true,false,false,false,false,110/70,0,Breastfed,Complete,2,College,16164,Healthy
+1139,5,0.4,77,98,140,39.6,false,1,true,true,true,false,false,118/78,0,Breastfed,Incomplete,4,Postgraduate,179048,Sick
+1140,3,6.2,27,99,99,35.1,false,25,false,false,true,true,false,110/70,6,Mixed,Complete,0,Postgraduate,120727,Sick
+1141,12,6.9,85,97,135,36.3,false,0,true,false,true,false,true,112/72,15,Mixed,Incomplete,2,College,4126,Sick
+1142,1,5.5,67,96,144,38,false,13,true,false,false,true,false,112/72,19,Formula,Incomplete,1,College,105871,Healthy
+1143,0,7,45,99,100,36.1,true,32,false,false,true,true,true,112/72,9,Formula,Incomplete,1,College,88442,Sick
+1144,5,1.9,10,100,98,36,true,22,false,true,false,true,true,112/72,6,Mixed,Complete,2,High School,10402,Healthy
+1145,12,4.2,97,93,106,35.1,false,8,true,true,false,true,false,115/75,1,Formula,Incomplete,3,High School,10023,Sick
+1146,3,8.7,11,98,146,37.8,false,24,true,true,true,false,false,118/78,3,Breastfed,Complete,2,High School,199680,Sick
+1147,0,4.8,44,93,106,37.2,true,36,false,true,false,false,true,110/70,18,Breastfed,Incomplete,2,Postgraduate,154115,Sick
+1148,12,1.5,10,90,139,35.8,false,5,false,true,false,false,true,118/78,6,Formula,Incomplete,4,Postgraduate,116603,Sick
+1149,6,1.9,78,92,115,36,true,32,false,false,false,true,true,118/78,9,Formula,Incomplete,2,College,5044,Sick
+1150,4,7.5,27,98,112,35.3,true,7,false,false,true,false,true,112/72,13,Mixed,Incomplete,5,College,35769,Healthy
+1151,12,5.7,43,95,108,37.8,true,3,true,true,true,false,false,112/72,17,Mixed,Incomplete,0,College,109658,Sick
+1152,0,7.8,93,91,68,35.2,true,13,false,false,false,true,false,112/72,3,Formula,Complete,0,Postgraduate,1827,Healthy
+1153,6,1.5,10,97,120,36.8,false,0,false,false,false,false,true,110/70,24,Breastfed,Complete,3,Postgraduate,141352,Healthy
+1154,4,3.1,16,99,83,39.3,false,38,true,false,true,false,true,115/75,9,Mixed,Complete,4,College,36630,Healthy
+1155,1,9.8,3,90,87,38.9,true,22,false,true,false,false,true,118/78,4,Breastfed,Complete,4,College,89586,Healthy
+1156,10,1.8,66,91,114,38.5,false,6,true,true,true,true,true,110/70,17,Mixed,Incomplete,1,Postgraduate,121519,Sick
+1157,6,9.3,39,90,137,38.7,true,17,true,true,false,false,false,110/70,5,Mixed,Incomplete,4,Postgraduate,58156,Sick
+1158,8,3.7,8,95,110,35.5,false,26,true,true,true,true,false,110/70,24,Mixed,Incomplete,0,College,103340,Healthy
+1159,6,9.6,64,100,112,40,false,36,true,true,false,false,false,118/78,13,Formula,Incomplete,3,Postgraduate,111862,Sick
+1160,3,0.4,55,98,145,35.8,true,6,true,false,false,true,true,118/78,20,Formula,Complete,5,Postgraduate,160835,Healthy
+1161,1,5.2,44,90,130,35.5,true,6,false,false,false,false,false,110/70,14,Mixed,Incomplete,3,High School,197360,Healthy
+1162,7,7.3,57,91,114,39.3,false,25,true,true,true,false,false,118/78,10,Formula,Complete,1,High School,184709,Healthy
+1163,7,7.2,59,96,85,37.9,false,4,true,true,false,true,true,112/72,10,Breastfed,Incomplete,3,College,135912,Healthy
+1164,11,3.2,23,95,91,38,true,17,false,true,false,true,false,110/70,4,Mixed,Incomplete,0,College,74490,Healthy
+1165,11,3.9,3,94,125,35,true,21,true,true,false,true,false,115/75,23,Mixed,Incomplete,2,Postgraduate,18733,Sick
+1166,6,9.4,74,94,108,39.7,true,24,false,false,false,true,false,110/70,19,Formula,Incomplete,2,Postgraduate,18673,Sick
+1167,7,5.7,14,90,118,37.8,false,3,true,false,false,false,true,110/70,21,Breastfed,Incomplete,2,Postgraduate,128714,Sick
+1168,3,9.2,84,100,132,38.8,false,25,true,true,false,false,true,118/78,21,Formula,Complete,1,College,199056,Healthy
+1169,4,0.4,95,94,82,37.4,false,26,true,false,true,false,false,112/72,1,Breastfed,Incomplete,4,Postgraduate,151003,Healthy
+1170,4,2.3,67,100,142,35.7,false,35,true,false,true,false,true,118/78,21,Breastfed,Incomplete,2,High School,94318,Sick
+1171,8,3.5,18,97,91,35.8,false,36,false,true,false,false,true,112/72,16,Breastfed,Incomplete,5,College,6574,Healthy
+1172,6,3.7,16,92,107,36.5,false,36,false,true,false,true,true,110/70,7,Formula,Incomplete,2,High School,20641,Sick
+1173,10,4.3,14,93,103,35.3,true,37,true,false,false,true,false,115/75,6,Formula,Complete,4,Postgraduate,69965,Healthy
+1174,6,9,82,95,96,36.4,false,30,false,false,true,false,true,115/75,14,Breastfed,Complete,0,High School,141950,Healthy
+1175,6,6.3,44,97,142,39.8,false,28,true,false,false,false,true,110/70,24,Breastfed,Incomplete,4,College,116192,Healthy
+1176,8,6.1,35,99,150,39.4,false,18,true,false,false,true,true,115/75,7,Formula,Incomplete,1,Postgraduate,123354,Sick
+1177,5,1.3,43,95,103,38,true,25,true,false,false,true,false,118/78,12,Mixed,Complete,2,College,75654,Healthy
+1178,10,4.9,34,97,80,39.8,false,21,true,false,true,true,false,110/70,21,Formula,Incomplete,3,High School,131155,Healthy
+1179,3,5.4,8,99,115,36.4,true,33,true,true,true,false,true,115/75,6,Formula,Complete,2,High School,66050,Sick
+1180,10,4.5,28,97,75,38.6,false,1,true,true,false,true,true,112/72,4,Formula,Incomplete,4,High School,70718,Healthy
+1181,12,1.1,66,97,69,35.5,true,5,true,true,false,false,false,118/78,10,Breastfed,Incomplete,2,College,78422,Healthy
+1182,9,4.4,45,100,86,36.8,true,18,true,true,false,true,true,112/72,22,Formula,Complete,3,Postgraduate,84854,Healthy
+1183,11,9.3,87,95,86,39.9,false,37,true,false,true,true,true,112/72,17,Formula,Incomplete,0,Postgraduate,111044,Healthy
+1184,1,5.7,55,100,109,39.1,false,28,true,true,true,true,false,118/78,21,Formula,Complete,5,College,93294,Sick
+1185,2,1.6,14,100,98,39.5,true,17,true,false,true,true,false,115/75,20,Formula,Incomplete,4,High School,55207,Healthy
+1186,8,6.9,91,95,97,36.3,false,33,true,true,false,true,true,118/78,24,Breastfed,Complete,1,Postgraduate,16912,Healthy
+1187,2,1.1,98,98,62,39.3,true,28,true,true,false,true,false,112/72,10,Breastfed,Incomplete,2,Postgraduate,10935,Sick
+1188,5,1.4,21,93,96,36.3,false,13,true,false,false,true,true,112/72,19,Formula,Complete,5,High School,27384,Healthy
+1189,6,0.3,52,93,61,37,true,4,true,false,true,true,true,118/78,19,Breastfed,Incomplete,0,College,181104,Healthy
+1190,4,5.2,26,97,80,39.9,false,7,true,false,true,true,false,115/75,12,Formula,Incomplete,4,College,75751,Healthy
+1191,7,9.1,34,97,141,35,true,10,true,false,false,false,false,112/72,23,Breastfed,Complete,3,High School,58154,Healthy
+1192,3,9.5,79,95,132,36.6,true,13,true,true,true,false,true,112/72,22,Mixed,Incomplete,5,High School,34183,Healthy
+1193,3,4.2,82,93,70,35.3,false,39,true,true,true,false,true,112/72,5,Formula,Incomplete,5,College,167197,Healthy
+1194,0,1.3,71,98,139,37.1,true,33,false,true,true,true,true,118/78,7,Formula,Complete,0,College,150983,Sick
+1195,10,0.7,8,90,143,36.3,false,3,true,true,true,false,true,112/72,16,Formula,Complete,3,Postgraduate,123061,Sick
+1196,5,2.3,6,96,110,38.6,false,9,false,false,false,false,true,118/78,23,Breastfed,Complete,3,College,28122,Sick
+1197,8,3.3,57,92,92,36.9,true,37,false,true,true,true,false,118/78,9,Breastfed,Incomplete,4,High School,199097,Sick
+1198,9,7.7,47,97,112,37.3,true,18,false,true,false,false,false,112/72,23,Formula,Complete,3,High School,29060,Sick
+1199,8,2.6,34,94,83,36.6,false,30,true,false,false,false,true,110/70,15,Mixed,Complete,4,College,137077,Sick
