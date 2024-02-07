@@ -6,16 +6,6 @@ router.post("/addInfant", (req, res) => {
   console.log(req.body, "body");
   const { name, age,weight,height,sleep_hours,feeding,immune_status, bloodGroup, gender } = req.body.info;
   const { user_id } = req.body;
-  console.log(name);
-  console.log(age);
-  console.log(weight);
-  console.log(height);
-  console.log(sleep_hours);
-  console.log(feeding);
-  console.log(immune_status);
-  console.log(bloodGroup);
-  console.log(gender);
-  console.log(user_id);
   const query = `call project.add_infant('${name}',${parseInt(age)},${parseFloat(weight)},${parseInt(height)},${parseInt(sleep_hours)},'${feeding}','${immune_status}','${bloodGroup}','${gender}',${user_id})`;
   console.log(query);
   db.query(query, (err, result) => {
